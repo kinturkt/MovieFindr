@@ -11,4 +11,12 @@ Features:
 
 In the output of the Streamlit Web App, it will show the user up to 10 movie recommendations based on the user searched query. <br>
 
-Note: To run the streamlit framework, type streamlit run main.py in your terminal.
+Note: To run the streamlit framework, type streamlit run main.py in your terminal. <br>
+
+References:
+
+'(https://www.youtube.com/watch?v=MDEXYjKv7v4&t=50s)' <br>
+https://www.datacamp.com/tutorial/streamlit <br>
+https://github.com/gborn/Semantic-Search-Engine-Using-ElasticSearch <br>
+https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/connecting.html <br>
+
