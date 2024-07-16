@@ -13,10 +13,13 @@ In the output of the Streamlit Web App, it will show the user up to 10 movie rec
 
 Note: To run the streamlit framework, type streamlit run main.py in your terminal. <br>
 
+In addition, if you also want to get the recommended movie poster, run other python file --> Type streamlit movie_with_poster.py in your terminal.
+
+Also, all the requirements are shown in requirements.txt file which should be installed in the system to run above codes.
+
 References:
 
 https://www.youtube.com/watch?v=MDEXYjKv7v4&t=50s <br>
 https://www.datacamp.com/tutorial/streamlit <br>
 https://github.com/gborn/Semantic-Search-Engine-Using-ElasticSearch <br>
 https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/connecting.html <br>
-
