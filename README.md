@@ -3,17 +3,17 @@
 Welcome to the Semantic Search Engine for Movie Recommendations repository! This project aims to provide personalized movie recommendations using advanced natural language processing techniques, by leeveraging sentence transformers for embeddings and the Streamlit library for creating an intuitive user interface. <br> <br>
 
 Features:
-1) Semantic Search: Uses sentence embeddings to understand the context and semantics of user queries, providing more accurate movie recommendations. <br>
-2) Sentence Embeddings: The application uses sentence transformers to convert movie descriptions and user queries into high-dimensional vectors. These embeddings capture the semantic meaning of the text. <br>
-3) Similarity Score: When a user inputs a query, the system calculates the cosine similarity between the query embedding and the movie embeddings to find the most relevant recommendations.
-4) Streamlit Interface: The UI built with Streamlit allows users to input their preferences, view recommendations, and interact with the recommendation engine in real-time. <br>
+1) <b>Semantic Search:</b> Uses sentence embeddings to understand the context and semantics of user queries, providing more accurate movie recommendations. <br>
+2) <b>Sentence Embeddings:</b> The application uses sentence transformers to convert movie descriptions and user queries into high-dimensional vectors. These embeddings capture the semantic meaning of the text. <br>
+3) <b>Similarity Score:</b When a user inputs a query, the system calculates the cosine similarity between the query embedding and the movie embeddings to find the most relevant recommendations.
+4) <b>Streamlit Interface:</b The UI built with Streamlit allows users to input their preferences, view recommendations, and interact with the recommendation engine in real-time. <br>
 5) <b>Elasticsearch Integration:</b> Movie data is indexed in Elasticsearch (Vector Database), allowing for quick and efficient retrieval of movie information based on user queries. <br>
 
 In the output of the Streamlit Web App, it will show the user up to 10 movie recommendations based on the user searched query. <br>
 
-Note: To run the streamlit framework, type streamlit run main.py in your terminal. <br>
+Note: To run the streamlit framework, type <b> streamlit run main.py </b> in your terminal. <br>
 
-In addition, if you also want to get the recommended movie poster, run other python file --> Type streamlit movie_with_poster.py in your terminal.
+In addition, if you also want to get the recommended movie poster, run another python file --> Type <b> streamlit movie_with_poster.py </b> in your terminal. <br>
 
 Also, all the requirements are shown in requirements.txt file which should be installed in the system to run above codes.
 
