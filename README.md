@@ -1,6 +1,6 @@
 # Semantic-Search-Engine-for-Movie-Recommendations
 
-Welcome to the Semantic Search Engine for Movie Recommendations repository! This project aims to provide personalized movie recommendations using advanced natural language processing techniques, by leeveraging sentence transformers for embeddings and the Streamlit library for creating an intuitive user interface. <br> <br>
+Welcome to the Semantic Search Engine for Movie Recommendations repository! This project aims to provide personalized movie recommendations using advanced natural language processing techniques, by leeveraging sentence transformers for embeddings and the Streamlit library for creating an intuitive user interface. <br>
 
 Features:
 1) <b>Semantic Search:</b> Uses sentence embeddings to understand the context and semantics of user queries, providing more accurate movie recommendations. <br>
@@ -23,3 +23,6 @@ https://www.youtube.com/watch?v=MDEXYjKv7v4&t=50s <br>
 https://www.datacamp.com/tutorial/streamlit <br>
 https://github.com/gborn/Semantic-Search-Engine-Using-ElasticSearch <br>
 https://www.elastic.co/guide/en/elasticsearch/client/python-api/current/connecting.html <br>
+
+**Author: Kintur Shah** <br>
+[LinkedIn](https://www.linkedin.com/in/kintur-shah/) | [Github](https://github.com/kinturkt)
