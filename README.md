@@ -4,7 +4,7 @@ Welcome to the Semantic Search Engine for Movie Recommendations repository! This
 
 Features:
 1) <b>Semantic Search:</b> Uses sentence embeddings to understand the context and semantics of user queries, providing more accurate movie recommendations. <br>
-2) <b>Sentence Embeddings:</b> The application uses sentence transformers to convert movie descriptions and user queries into high-dimensional vectors. These embeddings capture the semantic meaning of the text. <br>
+2) <b>Sentence Embeddings:</b> The application uses **Sentence Transformers** to convert movie descriptions and user queries into high-dimensional vectors. These embeddings capture the semantic meaning of the text. <br>
 3) <b>Similarity Score:</b> When a user inputs a query, the system calculates the cosine similarity between the query embedding and the movie embeddings to find the most relevant recommendations.
 4) <b>Streamlit Interface:</b> The UI built with Streamlit allows users to input their preferences, view recommendations, and interact with the recommendation engine in real-time. <br>
 5) <b>Elasticsearch Integration:</b> Movie data is indexed in Elasticsearch (Vector Database), allowing for quick and efficient retrieval of movie information based on user queries. <br>
