@@ -1,4 +1,4 @@
-# MovieFindr
+# MovieFindr - Semantic Search Engine for Movie Recommendations
 
 Welcome to the MovieFindr repository! This project aims to provide personalized movie recommendations using semantic search and advanced natural language processing techniques, by leeveraging sentence transformers for embeddings and the Streamlit library for creating an intuitive user interface. <br>
 
